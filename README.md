@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bioin-Mixologist
-🌱 I’m currently learning Bioinformatics.
+- 🌱 I’m currently learning Bioinformatics.
 Welcome to discuss single-cell RNA-Seq and R/Python programming topics with me.
 
 - 📺 Bilibili: [B站@生信调酒师](https://space.bilibili.com/2121534801)
