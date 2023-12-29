@@ -4,7 +4,7 @@
 
 - 📺 Bilibili: [B站@生信调酒师](https://space.bilibili.com/2121534801)
 - 🐶 Zhihu: [知乎@生信调酒师](https://www.zhihu.com/people/59-76-84-32)
-- 📬 Email: [BioinMixologist](BioinMixologist@163.com)
+- 📬 Email: [BioinMixologist@163.com](BioinMixologist@163.com)
 
 <!---
 Bioin-Mixologist/Bioin-Mixologist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
