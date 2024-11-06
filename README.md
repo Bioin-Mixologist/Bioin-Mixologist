@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bioin-Mixologist
+- 👋 Hi, I’m Bioin-Mixologist.
 - 🌱 I’m currently learning Bioinformatics.
 - Welcome to discuss single-cell RNA-Seq and R/Python programming topics with me.
 
